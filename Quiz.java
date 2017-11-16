@@ -1,5 +1,8 @@
 package Code;
 
+//My submission to the UB Hackathon 2017. I am currently only in CSE 115 - Introduction to Computer Science For Majors.
+//This app isn't really a quiz app, but more like a flash card app.
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
